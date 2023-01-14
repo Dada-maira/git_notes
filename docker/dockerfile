@@ -1,3 +1,3 @@
 FROM ubuntu
 CMD . .
-RUN managing.py
+RUN managing.py, requirements.txt
